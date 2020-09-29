@@ -16,11 +16,15 @@ bla bla
 - [Dùng danh sách liên kết viết Queue (**Queue using Linked List**)](https://youtu.be/WywRUxUsq_U?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 - 
 
+### <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-27-26-Block%20Stacking%20Tower.png" title="" alt="Block Stacking Tower.png" width="57">Ngăn xếp
 
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-28-33-icons8-joining_queue.png" title="" alt="icons8-joining_queue.png" width="58"> Hàng đợi
 
+### <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-29-32-icons8-tree_structure.png" title="" alt="icons8-tree_structure.png" width="59"> Cấu trúc cây
 
+### <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-31-30-Search%20OF%20Knowledge.png" alt="Search OF Knowledge.png" width="50"> Tìm kiếm
 
-
+### <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-32-19-icons8-alphabetical_sorting.png" alt="icons8-alphabetical_sorting.png" width="50"> Sắp xếp
 
 1. [Giới thiệu cấu trúc dữ liệu và giải thuật](https://youtu.be/UH4jTHZfJvI?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 2. [Viết Stack dùng Array](https://youtu.be/xgiRBPpkQxA?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
