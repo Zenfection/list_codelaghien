@@ -1,10 +1,26 @@
-# Lộ trình học algorithrm
+# <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-21-10-Algorithm.png" title="" alt="Algorithm.png" width="50"> Lộ trình học algorithrm
 
 Ghi mô tả
 
 bla bla
 
-## Mục lục:
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-23-04-Idealist%20Male.png" title="" alt="Idealist Male.png" width="55">Mục lục:
+
+### <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/09/29-13-22-23-SHOPING%20LIST.png" title="" alt="SHOPING LIST.png" width="51">Danh sách:
+
+- [Danh sách liên kết (**Linked List**) P1](https://youtu.be/EVII_HjoEtE?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- [Danh sách liên kết (**Linked List**) P2](https://youtu.be/_bOIuI2MUPE?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- [Danh sách liên kết có sắp xếp (**Sorted Linked List**)](https://youtu.be/8S85dNU68_M?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- [Danh sách liên kết đôi (**Doubly Linked List**)](https://youtu.be/lVAHcJr1I4U?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- [Dùng danh sách liên kết viết Stack (**Stack using Linked List**)](https://youtu.be/DvRWR1EZRfo?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- [Dùng danh sách liên kết viết Queue (**Queue using Linked List**)](https://youtu.be/WywRUxUsq_U?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+- 
+
+
+
+
+
+
 
 1. [Giới thiệu cấu trúc dữ liệu và giải thuật](https://youtu.be/UH4jTHZfJvI?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 2. [Viết Stack dùng Array](https://youtu.be/xgiRBPpkQxA?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
