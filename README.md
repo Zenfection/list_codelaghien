@@ -8,7 +8,7 @@ bla bla
 
 1. [Giới thiệu cấu trúc dữ liệu và giải thuật](https://youtu.be/UH4jTHZfJvI?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 2. [Viết Stack dùng Array](https://youtu.be/xgiRBPpkQxA?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
-3. [067 - C++ Data Structures - Algorithms, viết Queue dùng mảng (Array)](https://youtu.be/MdPbrrubros?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
+3. [Viết Queue dùng mảng (**Queue using Array**)](https://youtu.be/MdPbrrubros?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 4. [Sắp xếp thứ tự theo kiểu bong bóng (**Bubble Sort**)](https://youtu.be/YpVsaadNah8?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 5. [Viết Animation cho Bubble Sort](https://youtu.be/6XjZ17jcBJQ?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
 6. [Sắp xếp thứ tự theo kiểu lựa chọn (**Selection Sort**)](https://youtu.be/-IJ2dQvRQZQ?list=PLiNjao7yG415_e_HWvIPNQukir3Jlgjya)
